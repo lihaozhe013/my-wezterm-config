@@ -18,7 +18,7 @@ config.font = wezterm.font_with_fallback {
   'Noto Sans SC'
 }
 
-config.color_scheme = 'Catppuccin Macchiato'
+config.color_scheme = 'Catppuccin Mocha'
 
 config.window_close_confirmation = 'NeverPrompt'
 
