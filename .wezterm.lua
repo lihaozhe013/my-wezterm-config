@@ -15,6 +15,7 @@ config.font_size = 12
 config.font = wezterm.font_with_fallback {
   'Source Code Pro',
   'Noto Sans CJK SC Regular',
+  'Noto Sans SC'
 }
 
 config.color_scheme = 'Catppuccin Macchiato'
