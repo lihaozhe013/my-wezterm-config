@@ -21,7 +21,8 @@ config.font = wezterm.font_with_fallback {
 }
 
 config.color_scheme = 'Catppuccin Mocha'
-
+-- Set Git Bash as the default shell
+-- config.default_prog = { "C:\\Program Files\\Git\\bin\\bash.exe", "--login", "-i" }
 config.window_close_confirmation = 'NeverPrompt'
 
 -- Finally, return the configuration to wezterm:
