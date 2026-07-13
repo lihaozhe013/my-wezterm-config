@@ -13,6 +13,7 @@ config.initial_rows = 35
 -- or, changing the font size and color scheme.
 config.font_size = 12
 config.font = wezterm.font_with_fallback {
+  'JetBrainsMono Nerd Font',
   'Source Code Pro',
   'Noto Sans SC',
   'Noto Sans CJK SC',
